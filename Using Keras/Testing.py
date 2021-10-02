@@ -33,6 +33,10 @@ def predict(file):
     print("Predicted: Motorbikes")
   elif answer == 2:
     print("Predicted: soccer_ball")
+  elif answer == 3:
+    print("Predicted: Cars")
+  elif answer == 4:
+    print("Predicted: Trains")
 
   return answer
 
